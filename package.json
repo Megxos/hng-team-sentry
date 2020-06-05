@@ -1,0 +1,8 @@
+{
+  "name": "hng-team-sentry",
+  "description": "hng team sentry stage 2 task",
+  "version": "1.0.0",
+  "engines": {
+    "node": "12.16.3"
+  }
+}
